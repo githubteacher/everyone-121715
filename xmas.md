@@ -1,4 +1,4 @@
-a few of my favorite things 
-:thumbs up:
-**commits**
-_branches_
+# a few of my favorite things 
+- ~~pr~~
+- **commits**
+- _branches_
