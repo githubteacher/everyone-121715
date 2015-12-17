@@ -3,8 +3,5 @@
 - [ ] Rest
 - [ ] Zero inbox
 - [ ] Empty todo list
-
-
-
 - [ ] Trip to Maui
 - [ ] Volvo XC90 .... oh yeah ... Dad-mobile
