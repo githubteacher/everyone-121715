@@ -3,6 +3,7 @@
 Immediate Wants:
 - Subaru Outback
 - Northface Thermoball jacket
+- New boots
 
 Aspirational Wants:
 - 6 bedroom house in Orinda
