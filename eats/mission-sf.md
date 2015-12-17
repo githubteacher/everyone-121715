@@ -1,7 +1,7 @@
 # places to eat in the mission
 
 ## that I like
-* Laszlo (_you can order off the Foreign Cinema list!_)
+* [Laszlo](http://www.laszlobar.com "Laszlo") (_you can order off the Foreign Cinema list!_)
 * Mission Chinese Food
 * Serrano’s (_when drunk_)
 
