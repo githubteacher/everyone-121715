@@ -2,7 +2,7 @@
 
 I want:
 - Subaru Outback
-- 2 bedroom house in Orinda
+- 6 bedroom house in Orinda
 - Northface Thermoball jacket
 - Personal Stylist
 - Personal Chef
