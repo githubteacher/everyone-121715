@@ -1,9 +1,11 @@
 ### Dear Santa...
 
-I want:
+Immediate Wants:
 - Subaru Outback
-- 6 bedroom house in Orinda
 - Northface Thermoball jacket
+
+Aspirational Wants:
+- 6 bedroom house in Orinda
 - Personal Stylist
 - Personal Chef
 - Personal Driver
