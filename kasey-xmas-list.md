@@ -3,3 +3,4 @@
 * a full night's sleep
 * more hours in the day
 * jewelry
+* fewer earworms from JEC
