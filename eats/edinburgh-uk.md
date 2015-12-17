@@ -2,5 +2,5 @@
 * Fenwicks
 * The Witchery
 * The Dome
-* Bar One
-* Sheeps Heid
+* All Bar One
+* (Sheeps Heid)[https://www.thesheepheidedinburgh.co.uk]
