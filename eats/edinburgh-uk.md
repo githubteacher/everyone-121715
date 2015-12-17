@@ -3,4 +3,4 @@
 * The Witchery
 * The Dome
 * All Bar One
-* (Sheeps Heid)[https://www.thesheepheidedinburgh.co.uk]
+* [The Sheep Heid](https://www.thesheepheidedinburgh.co.uk)
