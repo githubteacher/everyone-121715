@@ -8,3 +8,6 @@
 - [ ] Trip to London
 - [ ] time to paint
 - [ ] more blue paint
+- [ ] Trip to Maui again
+- [ ] More Sleep
+- [ ] Bike ride
